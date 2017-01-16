@@ -1,2 +1,2 @@
 # Noten-RechnerProgramm
-Für Info
+Willkommen
