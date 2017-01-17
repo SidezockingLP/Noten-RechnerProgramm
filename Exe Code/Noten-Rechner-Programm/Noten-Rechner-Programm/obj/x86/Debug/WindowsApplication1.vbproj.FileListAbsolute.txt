@@ -1,0 +1,11 @@
+C:\Users\jonas_000.BÜRO\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\jonas_000.BÜRO\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Noten-Rechner.exe.config
+C:\Users\jonas_000.BÜRO\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Noten-Rechner.exe
+C:\Users\jonas_000.BÜRO\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Noten-Rechner.pdb
+C:\Users\jonas_000.BÜRO\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\Noten-Rechner.xml
+C:\Users\jonas_000.BÜRO\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Noten_Rechner.Benutzer.resources
+C:\Users\jonas_000.BÜRO\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Noten_Rechner.Form1.resources
+C:\Users\jonas_000.BÜRO\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Noten_Rechner.Resources.resources
+C:\Users\jonas_000.BÜRO\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Noten-Rechner.exe
+C:\Users\jonas_000.BÜRO\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Noten-Rechner.xml
+C:\Users\jonas_000.BÜRO\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\Noten-Rechner.pdb

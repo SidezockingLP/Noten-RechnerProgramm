@@ -1,0 +1,13 @@
+C:\Users\jonas_000.BÜRO\documents\visual studio 2010\Projects\Noten-Rechner-Programm\Noten-Rechner-Programm\bin\Debug\Noten-Rechner-Programm.exe.config
+C:\Users\jonas_000.BÜRO\documents\visual studio 2010\Projects\Noten-Rechner-Programm\Noten-Rechner-Programm\bin\Debug\Noten-Rechner-Programm.exe
+C:\Users\jonas_000.BÜRO\documents\visual studio 2010\Projects\Noten-Rechner-Programm\Noten-Rechner-Programm\bin\Debug\Noten-Rechner-Programm.pdb
+C:\Users\jonas_000.BÜRO\documents\visual studio 2010\Projects\Noten-Rechner-Programm\Noten-Rechner-Programm\bin\Debug\Noten-Rechner-Programm.xml
+C:\Users\jonas_000.BÜRO\documents\visual studio 2010\Projects\Noten-Rechner-Programm\Noten-Rechner-Programm\obj\x86\Debug\Noten_Rechner.Benutzer.resources
+C:\Users\jonas_000.BÜRO\documents\visual studio 2010\Projects\Noten-Rechner-Programm\Noten-Rechner-Programm\obj\x86\Debug\Noten_Rechner.Form1.resources
+C:\Users\jonas_000.BÜRO\documents\visual studio 2010\Projects\Noten-Rechner-Programm\Noten-Rechner-Programm\obj\x86\Debug\Noten_Rechner.Resources.resources
+C:\Users\jonas_000.BÜRO\documents\visual studio 2010\Projects\Noten-Rechner-Programm\Noten-Rechner-Programm\obj\x86\Debug\Noten-Rechner-Programm.vbproj.GenerateResource.Cache
+C:\Users\jonas_000.BÜRO\documents\visual studio 2010\Projects\Noten-Rechner-Programm\Noten-Rechner-Programm\obj\x86\Debug\Noten-Rechner-Programm.exe
+C:\Users\jonas_000.BÜRO\documents\visual studio 2010\Projects\Noten-Rechner-Programm\Noten-Rechner-Programm\obj\x86\Debug\Noten-Rechner-Programm.xml
+C:\Users\jonas_000.BÜRO\documents\visual studio 2010\Projects\Noten-Rechner-Programm\Noten-Rechner-Programm\obj\x86\Debug\Noten-Rechner-Programm.pdb
+C:\Users\jonas_000.BÜRO\documents\visual studio 2010\Projects\Noten-Rechner-Programm\Noten-Rechner-Programm\obj\x86\Debug\Noten_Rechner.AboutBox1.resources
+C:\Users\jonas_000.BÜRO\documents\visual studio 2010\Projects\Noten-Rechner-Programm\Noten-Rechner-Programm\obj\x86\Debug\Noten_Rechner.Adminzugang.resources
